@@ -1,1 +1,1 @@
-#Swith to master2 branch to get code
+Switch to master2 branch to get code
